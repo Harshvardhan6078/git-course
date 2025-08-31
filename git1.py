@@ -1,6 +1,9 @@
 print('hello captain')
+
 def greet():
-    {
-        print("hello")
-    }
+    
+        a = input("please name")
+        print("hello", a)
+
+    
 greet()
